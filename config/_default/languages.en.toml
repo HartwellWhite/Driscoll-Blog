@@ -9,14 +9,14 @@ title = "Driscoll's blog"
   rtl = false
   dateFormat = "2 January 2006"
   description = "My awesome website"
-#  logo = "img/MyAvatar.png"
-  # secondaryLogo = "img/secondary-logo.png"
-  # description = "My awesome website"
-  # copyright = "Copy, _right?_ :thinking_face:"
+# logo = "img/MyAvatar.png"
+# secondaryLogo = "img/secondary-logo.png"
+# description = "My awesome website"
+# copyright = "Copy, _right?_ :thinking_face:"
 
  [author]
    name = "Mr Driscoll"
-   image = "img/blowfishai.jpg"
+   image = "images/blowfishai.jpg"
    headline = "\"Small in stature, not swift, not cunning, easy prey for predators, but the blow fish has a secret weapon, doesn't he?\""
    bio = "Ingénieur Système & Sécurité"
    links = [
