@@ -17,5 +17,5 @@ Bienvenue sur mon blog. Je suis Tom et je travaille actuellement en tant qu'IngÃ
 Si vous souhaitez me contacter :
 
 * {{< icon "linkedin" >}} [Linkedin](http://www.linkedin.com/in/ğŸ’»-tom-martinez-00b393160)
-* {{< icon "email" >}} tom.martinez-apply@mailo.com
+* {{< icon "email" >}} tom.martinez-info@mailo.com
 
